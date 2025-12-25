@@ -19,7 +19,7 @@ export default {
   data() {
     return {
       showAbout: false,
-      clickBtn: 0 ,
+      clickBtn: 0,
     };
   },
   methods: {
